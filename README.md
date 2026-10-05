@@ -131,9 +131,7 @@ A second scanner domain (scanner B) is part of the case study but is **not used 
 ```text
 .
 ├── Jalon_1_MLP_et_CNN_corrige.ipynb   # Main notebook (in French)
-├── README.md
-├── docs/
-│   └── images/                        # Screenshots used in this README
+├── README.md                       
 └── journal.jsonl                      # Experiment log (optional)
 ```
 
