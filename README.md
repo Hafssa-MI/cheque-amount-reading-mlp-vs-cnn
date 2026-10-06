@@ -181,7 +181,7 @@ Python · TensorFlow / Keras · NumPy · pandas · scikit-learn · Matplotlib ·
 
 ## Authors
 
-- **Hafssa Miftah Idrissi** · [GitHub](https://github.com/Hafssa-MI) · [LinkedIn]([https://www.linkedin.com/in/<your-profile>](https://www.linkedin.com/in/hafssa-miftah-idrissi-5537a8319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1hAi42Z6SLCeYXS5PIyPRg%3D%3D)
+- **Hafssa Miftah Idrissi** · [GitHub](https://github.com/Hafssa-MI) · [LinkedIn](https://www.linkedin.com/in/hafssa-miftah-idrissi-5537a8319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1hAi42Z6SLCeYXS5PIyPRg%3D%3D)
 
 
 ---
