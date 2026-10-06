@@ -93,8 +93,8 @@ The data comes from a fictional bank, **Banque Atlas**. Each sample is a 32 × 1
 
 ### Option 1: Google Colab (recommended)
 
-1. Open the notebook in Colab (replace `<your-username>` and `<repo-name>`):
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/Jalon_1_MLP_et_CNN_corrige.ipynb)
+1. Open the notebook in Colab :
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hafssa-MI/cheque-amount-reading-mlp-vs-cnn/blob/main/Jalon_1_MLP_et_CNN_corrige.ipynb)
 2. Select a **GPU runtime** (Runtime → Change runtime type → T4 GPU).
 3. Run *Runtime → Restart session and run all*. When prompted, upload `uc1_domaineA.npz`.
 
